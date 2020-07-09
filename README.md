@@ -105,7 +105,7 @@ import { takeLatest } from 'redux-saga/effects'
 
 import { types } from './actions'
 
-function* getUserData({ meta: { id }}) {
+function* getUserDataSaga({ meta: { id }}) {
   ...
 }
 
