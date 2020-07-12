@@ -1,6 +1,6 @@
 {
   "name": "type-actions-redux",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "We know that using Redux can be a bit verbose, with TypeActionsRedux you in addition to writing little, keep their types and actions organized.",
   "main": "index.js",
   "repository": {

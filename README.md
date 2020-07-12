@@ -86,7 +86,7 @@ export const actions = {
   },
   setUserData(data) {
     return {
-      type: types.GET_USER_DATA,
+      type: types.SET_USER_DATA,
       payload: { data },
     }
   },
